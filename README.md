@@ -108,27 +108,6 @@ I'm an **IT graduate from University of the Punjab (CGPA 3.36)** holding a **CEH
 
 ---
 
-## ⚡ PERFORMANCE MATRIX
-
-<div align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=900&height=55&lines=System+Status%3A+Fully+Operational+🚀;Securing+Networks+%26+Infrastructure+🌐;Shipping+Security+Tools+%26+AI+Products+⚡;Available+for+Opportunities+✓"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=mba-121&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=0ea5e9&currStreakLabel=00ff88&sideLabels=8b949e&dates=8b949e"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📊 ACTIVITY STREAM
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mba-121&bg_color=0d1117&color=00ff88&line=00ff88&point=0ea5e9&area=true&hide_border=true&area_color=003322"/>
-
-</div>
 
 <br/>
 
