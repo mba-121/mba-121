@@ -111,11 +111,6 @@ I'm an **IT graduate from University of the Punjab (CGPA 3.36)** holding a **CEH
 
 <br/>
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mba-121&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=0ea5e9&text_color=8b949e&count_private=true&rank_icon=github"/>
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mba-121&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=8b949e&langs_count=6"/>
-</div>
 
 ---
 
