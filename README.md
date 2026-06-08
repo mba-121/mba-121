@@ -26,7 +26,7 @@
 
 ## 👨‍💻 IDENTITY PROFILE: MUHAMMAD UMAR AMIR
 
-> **"I build networks. I break into them ethically. Then I ship software on top."**
+> **"I design secure network infrastructure, test it for vulnerabilities, and launch custom software on top."**
 
 I'm an **IT graduate from University of the Punjab (CGPA 3.36)** holding a **CEH** from EC-Council and a **CCNA** from Cisco — both earned in 2025. I've monitored live infrastructure at **PTCL's Network Operations Center**, shipped **six security and full-stack projects**, and run a freelance digital practice since 2021.
 
